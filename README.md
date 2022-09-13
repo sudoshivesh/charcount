@@ -4,7 +4,7 @@
 
 <h3 aligh="center">Wecome to this Repository.</h3></br>
 <ul>
-  <li><b>Try it by clicking : https://sudoshivesh.github.io/charcount.github.io/ <b/></li>
+  <li><b>Try it by clicking : https://sudoshivesh.github.io/charcount.github.io/ <b/></li></br>
   <li>Character Counter help you to count word, character, spaces and character without spaces. </li></br>
 <li>You can write your own paragraph or you can paste some paragraph to count.</li></br>
 <li>For any suggestion/improvement or to talk on any tech topic connect with me   :  https://linktr.ee/sudoshivesh </li></br>
