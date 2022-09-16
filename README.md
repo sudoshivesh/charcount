@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1 align="center">CHARACTER COUNT WEB APP</h1>
 
 ![image1](https://user-images.githubusercontent.com/78317220/189998321-9c1fc1c4-b4d9-4ca8-85f7-f526d7673445.png)
@@ -23,5 +24,6 @@
 <li>https://github.com/sudoshivesh/</li>
 <li>https://linkedin.com/in/sudoshivesh</li> 
 </ol>
+</html>
 
 
